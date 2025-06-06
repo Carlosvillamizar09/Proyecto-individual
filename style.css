@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+}
+
+.fondo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('naruto-sasuke-epic-battle-anime-desktop-wallpaper-preview.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.5; 
+    z-index: -1; 
+}
+
+.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 400px; /* Ajusta el tamaño máximo del logo */
+    z-index: 2;
+    }
+
+.contenido {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center; 
+    height: 100vh;
+    padding-bottom: 60px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-family: "Silkscreen", sans-serif;
+    font-size:30px;
+    ;
+    
+}
