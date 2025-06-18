@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personajes - Naruto</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body class="fondo-personajes">
+
+    <header class="inicio">
+        <a href="inicio.html">
+            <img src="Naruto_logo.svg.png" alt="Logo Naruto" class="logo-naruto" />
+        </a>
+    </header>
+    <nav class="barra-navegacion">
+        <input type="text" id="buscadorPersonaje" placeholder="Buscar personaje..." autocomplete="off" />
+        <ul id="sugerencias" class="sugerencias oculto"></ul>
+    </nav>
+
+    <main>
+        <section class="tarjetas-container" id="contenedorPersonajes">
+
+        </section>
+    </main>
+
+    <div id="modalPersonaje" class="modal oculto">
+        <div class="modal-contenido">
+            <span class="cerrar" id="cerrarModal">&times;</span>
+            <div id="infoPersonaje">
+            </div>
+        </div>
+    </div>
+
+    <script src="personajes.js"></script>
+</body>
+
+</html>
