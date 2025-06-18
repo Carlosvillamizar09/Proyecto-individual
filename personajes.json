@@ -1,0 +1,242 @@
+[
+  {
+    "id": "P001",
+    "nombre": "Naruto Uzumaki",
+    "clan": "Uzumaki",
+    "afiliacion": "Konoha",
+    "rango": "Hokage",
+    "jutsu_favorito": "Rasengan"
+  },
+  {
+    "id": "P002",
+    "nombre": "Sasuke Uchiha",
+    "clan": "Uchiha",
+    "afiliacion": "Independiente",
+    "rango": "Nukenin",
+    "jutsu_favorito": "Chidori"
+  },
+  {
+    "id": "P003",
+    "nombre": "Sakura Haruno",
+    "clan": "Haruno",
+    "afiliacion": "Konoha",
+    "rango": "Jounin",
+    "jutsu_favorito": "Byakugou no Jutsu"
+  },
+  {
+    "id": "P004",
+    "nombre": "Kakashi Hatake",
+    "clan": "Hatake",
+    "afiliacion": "Konoha",
+    "rango": "Jounin",
+    "jutsu_favorito": "Raikiri"
+  },
+  {
+    "id": "P005",
+    "nombre": "Itachi Uchiha",
+    "clan": "Uchiha",
+    "afiliacion": "Akatsuki",
+    "rango": "Anbu",
+    "jutsu_favorito": "Amaterasu"
+  },
+  {
+    "id": "P006",
+    "nombre": "Shikamaru Nara",
+    "clan": "Nara",
+    "afiliacion": "Konoha",
+    "rango": "Jounin",
+    "jutsu_favorito": "Kagemane no Jutsu"
+  },
+  {
+    "id": "P007",
+    "nombre": "Hinata Hyuga",
+    "clan": "Hyuga",
+    "afiliacion": "Konoha",
+    "rango": "Chuunin",
+    "jutsu_favorito": "Juho Soshiken"
+  },
+  {
+    "id": "P008",
+    "nombre": "Neji Hyuga",
+    "clan": "Hyuga",
+    "afiliacion": "Konoha",
+    "rango": "Jounin",
+    "jutsu_favorito": "Hakke Rokujuuyon Shou"
+  },
+  {
+    "id": "P009",
+    "nombre": "Rock Lee",
+    "clan": "Desconocido",
+    "afiliacion": "Konoha",
+    "rango": "Jounin",
+    "jutsu_favorito": "Hachimon Tonkou"
+  },
+  {
+    "id": "P010",
+    "nombre": "Gaara",
+    "clan": "Kazekage",
+    "afiliacion": "Suna",
+    "rango": "Kazekage",
+    "jutsu_favorito": "Sabaku Kyuu"
+  },
+  {
+    "id": "P011",
+    "nombre": "Temari",
+    "clan": "Desconocido",
+    "afiliacion": "Suna",
+    "rango": "Jounin",
+    "jutsu_favorito": "Kirikiri Mai"
+  },
+  {
+    "id": "P012",
+    "nombre": "Kankuro",
+    "clan": "Desconocido",
+    "afiliacion": "Suna",
+    "rango": "Jounin",
+    "jutsu_favorito": "Kugutsu no Jutsu"
+  },
+  {
+    "id": "P013",
+    "nombre": "Tenten",
+    "clan": "Desconocido",
+    "afiliacion": "Konoha",
+    "rango": "Chuunin",
+    "jutsu_favorito": "Sogu: Tensasai"
+  },
+  {
+    "id": "P014",
+    "nombre": "Ino Yamanaka",
+    "clan": "Yamanaka",
+    "afiliacion": "Konoha",
+    "rango": "Jounin",
+    "jutsu_favorito": "Shintenshin no Jutsu"
+  },
+  {
+    "id": "P015",
+    "nombre": "Choji Akimichi",
+    "clan": "Akimichi",
+    "afiliacion": "Konoha",
+    "rango": "Jounin",
+    "jutsu_favorito": "Baika no Jutsu"
+  },
+  {
+    "id": "P016",
+    "nombre": "Kiba Inuzuka",
+    "clan": "Inuzuka",
+    "afiliacion": "Konoha",
+    "rango": "Chuunin",
+    "jutsu_favorito": "Gatsuga"
+  },
+  {
+    "id": "P017",
+    "nombre": "Shino Aburame",
+    "clan": "Aburame",
+    "afiliacion": "Konoha",
+    "rango": "Jounin",
+    "jutsu_favorito": "Kikaichu no Jutsu"
+  },
+  {
+    "id": "P018",
+    "nombre": "Tobirama Senju",
+    "clan": "Senju",
+    "afiliacion": "Konoha",
+    "rango": "Hokage",
+    "jutsu_favorito": "Edo Tensei"
+  },
+  {
+    "id": "P019",
+    "nombre": "Hashirama Senju",
+    "clan": "Senju",
+    "afiliacion": "Konoha",
+    "rango": "Hokage",
+    "jutsu_favorito": "Mokuton Hijutsu"
+  },
+  {
+    "id": "P020",
+    "nombre": "Minato Namikaze",
+    "clan": "Namikaze",
+    "afiliacion": "Konoha",
+    "rango": "Hokage",
+    "jutsu_favorito": "Hiraishin no Jutsu"
+  },
+  {
+    "id": "P021",
+    "nombre": "Madara Uchiha",
+    "clan": "Uchiha",
+    "afiliacion": "Independiente",
+    "rango": "Líder",
+    "jutsu_favorito": "Limbo"
+  },
+  {
+    "id": "P022",
+    "nombre": "Obito Uchiha",
+    "clan": "Uchiha",
+    "afiliacion": "Akatsuki",
+    "rango": "Nukenin",
+    "jutsu_favorito": "Kamui"
+  },
+  {
+    "id": "P023",
+    "nombre": "Nagato",
+    "clan": "Uzumaki",
+    "afiliacion": "Akatsuki",
+    "rango": "Líder",
+    "jutsu_favorito": "Shinra Tensei"
+  },
+  {
+    "id": "P024",
+    "nombre": "Konan",
+    "clan": "Desconocido",
+    "afiliacion": "Akatsuki",
+    "rango": "Líder",
+    "jutsu_favorito": "Shikigami no Mai"
+  },
+  {
+    "id": "P025",
+    "nombre": "Deidara",
+    "clan": "Desconocido",
+    "afiliacion": "Akatsuki",
+    "rango": "Nukenin",
+    "jutsu_favorito": "Katsu"
+  },
+  {
+    "id": "P026",
+    "nombre": "Sasori",
+    "clan": "Desconocido",
+    "afiliacion": "Akatsuki",
+    "rango": "Nukenin",
+    "jutsu_favorito": "Hitokugutsu"
+  },
+  {
+    "id": "P027",
+    "nombre": "Kisame Hoshigaki",
+    "clan": "Desconocido",
+    "afiliacion": "Akatsuki",
+    "rango": "Nukenin",
+    "jutsu_favorito": "Suikoudan no Jutsu"
+  },
+  {
+    "id": "P028",
+    "nombre": "Zabuza Momochi",
+    "clan": "Desconocido",
+    "afiliacion": "Kirigakure",
+    "rango": "Nukenin",
+    "jutsu_favorito": "Silent Killing"
+  },
+  {
+    "id": "P029",
+    "nombre": "Haku",
+    "clan": "Yuki",
+    "afiliacion": "Kirigakure",
+    "rango": "Genin",
+    "jutsu_favorito": "Makyou Hyoushou"
+  },
+  {
+    "id": "P030",
+    "nombre": "Orochimaru",
+    "clan": "Desconocido",
+    "afiliacion": "Otogakure",
+    "rango": "Sannin",
+    "jutsu_favorito": "Fushi Tensei"
+  }
+]
