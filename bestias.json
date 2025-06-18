@@ -1,0 +1,65 @@
+[
+    {
+        "id": "shukaku",
+        "nombre": "Shukaku",
+        "colas": 1,
+        "jinchuriki": "Gaara",
+        "naturaleza": "Viento"
+    },
+    {
+        "id": "matatabi",
+        "nombre": "Matatabi",
+        "colas": 2,
+        "jinchuriki": "Yugito Nii",
+        "naturaleza": "Fuego"
+    },
+    {
+        "id": "isobu",
+        "nombre": "Isobu",
+        "colas": 3,
+        "jinchuriki": "Yagura",
+        "naturaleza": "Agua"
+    },
+    {
+        "id": "goku",
+        "nombre": "Son Gokū",
+        "colas": 4,
+        "jinchuriki": "Rōshi",
+        "naturaleza": "Lava"
+    },
+    {
+        "id": "kokuo",
+        "nombre": "Kokuō",
+        "colas": 5,
+        "jinchuriki": "Han",
+        "naturaleza": "Vapor"
+    },
+    {
+        "id": "saiken",
+        "nombre": "Saiken",
+        "colas": 6,
+        "jinchuriki": "Utakata",
+        "naturaleza": "Ácido"
+    },
+    {
+        "id": "chomei",
+        "nombre": "Chōmei",
+        "colas": 7,
+        "jinchuriki": "Fū",
+        "naturaleza": "Insecto/Luz"
+    },
+    {
+        "id": "gyuki",
+        "nombre": "Gyūki",
+        "colas": 8,
+        "jinchuriki": "Killer Bee",
+        "naturaleza": "Rayo"
+    },
+    {
+        "id": "kurama",
+        "nombre": "Kurama",
+        "colas": 9,
+        "jinchuriki": "Naruto Uzumaki",
+        "naturaleza": "Chakra Puro"
+    }
+]
