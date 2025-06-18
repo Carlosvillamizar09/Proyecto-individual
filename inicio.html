@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Enciclopedia Ninja</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <video autoplay muted loop id="videoFondo">
+    <source src="fondo_naruto.mp4" type="video/mp4" />
+  </video>
+
+  <div class="overlay"></div>
+
+  <header class="inicio">
+    <a href="inicio.html">
+      <img src="Naruto_logo.svg.png" alt="Logo Naruto" class="logo-naruto" />
+    </a>
+  </header>
+
+  <main class="tarjetas-container">
+    <div class="tarjeta" onclick="location.href='personajes.html'">
+      <div class="tarjeta-contenido">
+        <h2>Personajes</h2>
+      </div>
+      <img src="personajes_icon.jpg" alt="Personajes" />
+    </div>
+
+    <div class="tarjeta" onclick="location.href='bestias.html'">
+      <div class="tarjeta-contenido">
+        <h2>Bestias con Cola</h2>
+      </div>
+      <img src="bestias_icon.jpg" alt="Bestias con cola" />
+    </div>
+
+    <div class="tarjeta" onclick="location.href='aldeas.html'">
+      <div class="tarjeta-contenido">
+        <h2>Aldeas</h2>
+      </div>
+      <img src="aldeas_icon.jpg" alt="Aldeas" />
+    </div>
+
+
+    <div class="tarjeta" onclick="location.href='kekkei.html'">
+      <div class="tarjeta-contenido">
+        <h2>Kekkei Genkai</h2>
+      </div>
+      <img src="kekkei_icon.jpg" alt="Kekkei Genkai" />
+    </div>
+
+  </main>
+</body>
+
+</html>
