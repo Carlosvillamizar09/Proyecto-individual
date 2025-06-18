@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Sharingan",
+        "clan": "Uchiha",
+        "descripcion": "Habilidad ocular que permite ver movimientos rápidos, copiar jutsus y realizar genjutsu.",
+        "imagen": "sharingan.jpg"
+    },
+    {
+        "nombre": "Mangekyō Sharingan (Itachi)",
+        "clan": "Uchiha",
+        "descripcion": "Versión avanzada que permite usar técnicas como Amaterasu, Tsukuyomi y Susanoo.",
+        "imagen": "mangekyou_itachi.jpg"
+    },
+    {
+        "nombre": "Mangekyō Sharingan (Shisui)",
+        "clan": "Uchiha",
+        "descripcion": "Permite usar Kotoamatsukami, un genjutsu de manipulación absoluta.",
+        "imagen": "mangekyou_shisui.jpg"
+    },
+    {
+        "nombre": "Rinnegan",
+        "clan": "Otsutsuki / Uzumaki",
+        "descripcion": "Uno de los dojutsu más poderosos. Permite controlar la vida y la muerte, usar los seis caminos y más.",
+        "imagen": "rinnegan.jpg"
+    },
+    {
+        "nombre": "Byakugan",
+        "clan": "Hyuga",
+        "descripcion": "Visión de 360°, puede ver el sistema de chakra y realizar el Juuken.",
+        "imagen": "byakugan.jpg"
+    },
+    {
+        "nombre": "Susanoo (Madara)",
+        "clan": "Uchiha",
+        "descripcion": "Manifestación gigante de chakra defensivo y ofensivo, forma final del Mangekyō.",
+        "imagen": "susanoo_madara.jpg"
+    },
+    {
+        "nombre": "Susanoo (Sasuke)",
+        "clan": "Uchiha",
+        "descripcion": "Forma evolucionada con alas, flechas y espadas etéreas.",
+        "imagen": "susanoo_sasuke.jpg"
+    }
+]
